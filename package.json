@@ -7,6 +7,8 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "dotenv": "^10.0.0",
+    "prerender": "^5.17.0",
     "prerender-aws-s3-cache": "1.0.1"
   }
 }
